@@ -1,4 +1,5 @@
 #problem 2_Employee performance bonus calculation
+# This program calculates the performance bonus for an employee based on their annual salary and performance score.
 
 def main():
     salary = float(input("Enter annual salary: $ "))
